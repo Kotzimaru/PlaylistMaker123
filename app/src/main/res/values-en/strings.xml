@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Playlist Maker</string>
+    <string name="title_hello">Hello, Practicum</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="media">Media</string>
+    <string name="setting">Setting</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="share">Share the app</string>
+</resources>
