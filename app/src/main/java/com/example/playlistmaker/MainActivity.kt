@@ -30,8 +30,9 @@ class MainActivity : AppCompatActivity() {
             startActivity(mediaDisplayIntent)}
 
 
-        settingsButton.setOnClickListener {
-            Toast.makeText(this@MainActivity, "Еще не работает", Toast.LENGTH_SHORT).show()}
+        /*settingsButton.setOnClickListener {
+            val mediaDisplayIntent = Intent(this, SettingsActivity::class.java)
+            startActivity(settingDisplayIntent)}*/
 
 
 
